@@ -51,3 +51,16 @@ TRUTH TABLE FOR NEGATION OF EXCLUSIVE OR
 | 1 | 1 | 0 | 1 |
 
 - I learned how to use Logical Equivalences in proving a certain expression, and its step-by-step procedure.
+
+
+# DISMATH WEEK 3
+(from dismathportfolio)
+
+
+- Predicate Logic-concerned not only with logic relations between sentences or propositions as wholes, but the internal structure in terms of subject and predicate.
+- ex. x>12, 'x' is the subject and 'is greater than 12' is the predicate.
+- Quantifiers indicate the generality of open sentence in which a variable occurs
+- Existential Quantifier (∃x), "there exists":P(x1)vP(x2)vP(x3)...vP(xn)
+- one example that is true will gain a true value
+- Universal Quantifier (∀x), "for all": P(x1)∧P(x2)∧P(x3)...∧P(xn)
+- one example that is false will gain a false value
