@@ -64,3 +64,46 @@ TRUTH TABLE FOR NEGATION OF EXCLUSIVE OR
 - one example that is true will gain a true value
 - Universal Quantifier (∀x), "for all": P(x1)∧P(x2)∧P(x3)...∧P(xn)
 - one example that is false will gain a false value
+- We learned about Rules of inference
+
+
+# DISMATH WEEK 4
+(from dismathportfolio)
+
+- We applied the rules of inference to different 
+- We discussed proving, and the different methods of proving.
+- We learned about direct proof, where you first assume the first statement true, and show the second statement to be true based on the first one.
+- We learned about proof by Contraposition, or indirect proof, which assumes the second statement false, and shows the first ione toi be true based on the second statement.
+- The next two are proof by Vacuous and Trivial. These two are easy to remember because they are patterned in the logical connective p → q. When p is F, p → q is automatically T (Vacuous), and when q is T, p → q is automatically T (Trivial).
+
+
+# DISMATH WEEK 5
+(from dismathportfolio)
+
+- We learned about proof of Contradiction, where you will use the whole premise and the negation of that premise will show a contradiction of the statement.
+- We also studied Mathematical Induction, which has a Basis Step, and then an Inductive Step using the Direct proof.
+- For program correctness, we need an initial assertion, final assertion and a segment.
+
+# DISMATH WEEK 6
+(from dismathportfolio)
+- We had an introduction to Set Theory, and it somewhat refreshed our learnings from our highschool mathematics.
+- We discussed the definitions of set, empty set, membership, set-builder notations, and venn diagrams.
+- We had also distinguished the properties of union, intersection, subtraction, and symmetric difference.
+- The Set Identities have very similar inputs with the Logical Equivalences properties.
+- Subsets and power sets were also discussed thoroughly.
+- a subset can be a set of itself.
+- example: the set {1,2,3,4} is a subset of {1,2,3,4} 
+- The Power Series also has similar notations with the Geometric Series.
+
+# DISMATH WEEK 7
+(from dismathportfolio)
+- We assign exactly one element to set B to say that it is a function.
+- If it is not, it is called a relation
+- The domain, co-domain and range were discussed with proper distinctions.
+- There three types of functions: one-to-one function, onto function, and one-to-one correspondence.
+- One-to-one function (injective) is a function that never assign the same value to two different domain elements.
+- Onto function (surjective) is a function that have equal range and codomain.
+- One-to-one correspondence (bijective) is the mixture of injective and surjective functions.
+- In a venn diagram, the intersection of an injective function and surjective function is a bijective function.
+- The box in which the Venn diagram lies is neither surjective, bijective or injective.
+
