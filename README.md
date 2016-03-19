@@ -107,3 +107,34 @@ TRUTH TABLE FOR NEGATION OF EXCLUSIVE OR
 - In a venn diagram, the intersection of an injective function and surjective function is a bijective function.
 - The box in which the Venn diagram lies is neither surjective, bijective or injective.
 
+# DISMATH WEEK 7
+(from dismathportfolio)
+- An Algorithm is a finite set of precise instructions for performing a computation or for solving a problem.
+- I learned that Pseudocode is the high-level description of an algorithm that uses the structural conventions (Input, Body, and Output)
+- Properties of a correct Pseudocode are:Input, Output, Defineteness(if it is defined precisely), Correctness (if the output value is correct), Finiteness (it is limited with the given input), and Generality.
+- Precondition describes a valid input 
+- Postcondition is the output that was satisfied when the program run.
+
+# DISMATH WEEK 8
+(from dismathportfolio)
+- **Searching Algorithms** - the problem of locating an element in an ordered list.
+  - *Linear Search* -  finding a particular value in a list that checks each element in sequence until the desired element is found.
+  - *Binary Search* - comparing the middle values of a list then repeated until the desired output is found.
+- **Sorting Algorithms** - the problem of assorting elements into increasing order.
+  - *Bubble Sort* - compares the first two elements then interchanging them if they are in the incorrect order.
+  - *Insertion Sort* - compares the second element with the first and inserts it before the first element if it is less. Otherwise, it     is inserted after the first element.
+- **Greedy Algorithms** - algorithms that make what seems to be the "best" choice at each step. Selects the best choice at each step, instead of considering all sequences of steps that may lead to optimal solution.
+ 
+
+# DISMATH WEEK 9
+(from dismathportfolio)
+- We started discussing Growth of Functions
+- In the Growth of Function, it has a constants of C and k that describes as the witnesses.
+- Big-O notation is the upper bound of a function.
+- Big-Omega is the lower bound of a function, while Big-Theta is the upper and lower bound of a function.
+- Mathematical definition:
+  - Big-O: |f(x)| ≤ |C(g(x))|
+  - Big-Omega: |f(x)| ≥ |C(g(x))|
+  - Big-Theta: |C1(g(x))| ≤ |f(x)| ≤ |C2(g(x))|
+
+
