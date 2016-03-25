@@ -138,3 +138,20 @@ TRUTH TABLE FOR NEGATION OF EXCLUSIVE OR
   - Big-Theta: |C1(g(x))| ≤ |f(x)| ≤ |C2(g(x))|
 
 
+# DISMATH WEEK 10
+(from dismathportfolio)
+- Time complexity was discussed and it's really hard to understand.
+- It can be expressed in terms of the number of operations used by the algorithm when the input has a particular size.
+		
+  | Complexity | Terminology |
+  | :---: | :---: |
+  | ϴ(1) | constant complexity |
+  | ϴ(log n) | log complexity |
+  | ϴ(n) | linear complexity |
+  | ϴ(n log n) | n log n complexity |
+  | ϴ(n^b) | polynomial complexity |
+  | ϴ(b^n) | exponential complexity |
+  | ϴ(n!) | factorial complexity |
+
+- Time complexity is dependent on the number of comparisons an algorithm have.
+- Getting the time complexity is confusing so Sir used an iteration table to be able to explain how to get the number of comparisons.
