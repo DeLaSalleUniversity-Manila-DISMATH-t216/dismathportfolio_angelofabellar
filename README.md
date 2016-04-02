@@ -155,3 +155,13 @@ TRUTH TABLE FOR NEGATION OF EXCLUSIVE OR
 
 - Time complexity is dependent on the number of comparisons an algorithm have.
 - Getting the time complexity is confusing so Sir used an iteration table to be able to explain how to get the number of comparisons.
+
+# DISMATH WEEK 10
+(from dismathportfolio)
+- We learned about Euler Paths and circuits
+- Euler path is a path that covers all edges
+- Euler circuit covers all edges and goes from the starting vertex back to the original vertex along the way.
+- Hamiltonian circuits and paths cover all nodes or vertices and goes from the starting node bak to the original.
+- Hamiltonian path covers all nodes.
+- 
+
