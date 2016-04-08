@@ -158,10 +158,35 @@ TRUTH TABLE FOR NEGATION OF EXCLUSIVE OR
 
 # DISMATH WEEK 10
 (from dismathportfolio)
-- We learned about Euler Paths and circuits
+- 
+
+# DISMATH WEEK 11
+(from dismathportfolio)
+We learned about Euler Paths and circuits
 - Euler path is a path that covers all edges
 - Euler circuit covers all edges and goes from the starting vertex back to the original vertex along the way.
 - Hamiltonian circuits and paths cover all nodes or vertices and goes from the starting node bak to the original.
 - Hamiltonian path covers all nodes.
-- 
+-  Isomorphic Graphs are two graphs which are still the same when the orientation changes.  
+- Planar Graphs are graphs whose edges not cross each other.  
+- There is an Euler's Formula for computing the number of regions: r = e - v + 2 
+- Kuratowski's Theorem is when a graph is nonplanar iff it contains a subgraph homeomorphic to the following graph.  
+- It is called Complete Graphs on n vertices, denoted  by Kn, a simple graph that contains exactly one edge between each pair of distinct vertices.  
+- Petersen Graph is K3,3, therefore the graph is nonplanar.  
+- Homeomorphic graphs are graphs that have a pattern to a specific graph when a node and two edges are replaced by one edge only.
+
+# DISMATH WEEK 12
+(from dismathportfolio)
+
+I learned about Graph Coloring where there are no adjacent nodes can share the same color.
+- Chromatic number of a graph is the minimal number of colors needed for coloring a graph. It is denoted by  χ(G), where G is the chromatic number of a graph.
+- I learned the different terms for trees: parent, siblings, child, ancestors, descendants, leaf, and internal vertices.
+- I learned that a rooted tree is called an *m-ary tree*  if every internal vertex has no more than m children.
+- The tree is called a full m-ary tree if every internal vertex has exactly m children. 
+- An m-ary tree with m = 2 is called a binary tree.
+-  I learned how the state machines work having the example the Vending Machine, which made me understand modeling computation for finite machines
+- I learned from the Four Color Theorem that "The chromatic number of a planar graph is no greater than four (4)."
+- In Cycles (Cn), for every odd number of n, the chromatic number is 3; while for every even number of n, the chromatic number is 2.
+- In Complete Graphs (Kn), the chromatic number is the value n.. 
+
 
